@@ -14,3 +14,6 @@
 {"n":14,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the awning at Kessler alley. Nobody past the south roof. We hold in 2 steps. Direct on the left lane, open."}
 {"n":15,"kind":"place","name":"Kessler alley south roof","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Kessler alley south roof. Bess keeps the awning for the hold. 3 steps, direct on the left lane, open."}
 {"n":16,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, south roof. direct left open. 4 steps. The awning stays for the hold."}
+{"n":17,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the awning at the Lot. Nobody past the south roof. We hold in 5 steps. Direct on the left lane, open."}
+{"n":18,"kind":"place","name":"the Lot south roof","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"the Lot south roof. Matt keeps the awning for the hold. 6 steps, direct on the left lane, open."}
+{"n":19,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, south roof. direct left open. 7 steps. The awning stays for the hold."}
