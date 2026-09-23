@@ -673,3 +673,6 @@
 {"n":673,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, west slip. direct left open. 3 steps. The plywood stays for the hold."}
 {"n":674,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the plywood at Ward gate. Nobody past the west slip. We hold in 4 steps. Direct on the left lane, open."}
 {"n":675,"kind":"place","name":"Ward gate west slip","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Ward gate west slip. Bess keeps the plywood for the hold. 5 steps, direct on the left lane, open."}
+{"n":676,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, west slip. direct left open. 6 steps. The plywood stays for the hold."}
+{"n":677,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the plywood at Kessler alley. Nobody past the west slip. We hold in 7 steps. Direct on the left lane, open."}
+{"n":678,"kind":"place","name":"Kessler alley west slip","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Kessler alley west slip. Matt keeps the plywood for the hold. 8 steps, direct on the left lane, open."}
