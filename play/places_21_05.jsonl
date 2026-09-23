@@ -401,3 +401,6 @@
 {"n":401,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, east roof. direct left open. 8 steps. The badge door stays for the hold."}
 {"n":402,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the badge door at South stair. Nobody past the east roof. We hold in 2 steps. Direct on the left lane, open."}
 {"n":403,"kind":"place","name":"South stair east roof","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"South stair east roof. Bess keeps the badge door for the hold. 3 steps, direct on the left lane, open."}
+{"n":404,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, east roof. direct left open. 4 steps. The badge door stays for the hold."}
+{"n":405,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the badge door at the pier. Nobody past the east roof. We hold in 5 steps. Direct on the left lane, open."}
+{"n":406,"kind":"place","name":"the pier east roof","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"the pier east roof. Matt keeps the badge door for the hold. 6 steps, direct on the left lane, open."}
