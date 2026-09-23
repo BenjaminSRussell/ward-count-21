@@ -305,3 +305,6 @@
 {"n":305,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, west roof. direct left open. 6 steps. The lamp stays for the hold."}
 {"n":306,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the lamp at the Lot. Nobody past the west roof. We hold in 7 steps. Direct on the left lane, open."}
 {"n":307,"kind":"place","name":"the Lot west roof","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Lot west roof. Bess keeps the lamp for the hold. 8 steps, direct on the left lane, open."}
+{"n":308,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, west roof. direct left open. 2 steps. The lamp stays for the hold."}
+{"n":309,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the lamp at Stockyard fence. Nobody past the west roof. We hold in 3 steps. Direct on the left lane, open."}
+{"n":310,"kind":"place","name":"Stockyard fence west roof","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Stockyard fence west roof. Matt keeps the lamp for the hold. 4 steps, direct on the left lane, open."}
