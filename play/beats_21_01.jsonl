@@ -946,3 +946,6 @@
 {"n":946,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the barrel at Ward gate. Nobody past the west roof. We hold in 4 steps. Direct on the left lane, open."}
 {"n":947,"kind":"place","name":"Ward gate west roof","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Ward gate west roof. Bess keeps the barrel for the hold. 5 steps, direct on the left lane, open."}
 {"n":948,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, west roof. direct left open. 6 steps. The barrel stays for the hold."}
+{"n":949,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the barrel at Kessler alley. Nobody past the west roof. We hold in 7 steps. Direct on the left lane, open."}
+{"n":950,"kind":"place","name":"Kessler alley west roof","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Kessler alley west roof. Matt keeps the barrel for the hold. 8 steps, direct on the left lane, open."}
+{"n":951,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, west roof. direct left open. 2 steps. The barrel stays for the hold."}
