@@ -354,3 +354,6 @@
 {"n":354,"kind":"place","name":"Mall court north roof","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Mall court north roof. Matt keeps the lamp for the hold. 2 steps, direct on the left lane, open."}
 {"n":355,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, north roof. direct left open. 3 steps. The lamp stays for the hold."}
 {"n":356,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the lamp at Mall court. Nobody past the north roof. We hold in 4 steps. Direct on the left lane, open."}
+{"n":357,"kind":"place","name":"Mall court north roof","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Mall court north roof. Nia keeps the lamp for the hold. 5 steps, direct on the left lane, open."}
+{"n":358,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, north roof. direct left open. 6 steps. The lamp stays for the hold."}
+{"n":359,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the lamp at Mall court. Nobody past the north roof. We hold in 7 steps. Direct on the left lane, open."}
