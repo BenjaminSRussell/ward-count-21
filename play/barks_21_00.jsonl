@@ -876,3 +876,6 @@
 {"n":876,"kind":"place","name":"the pier south stair","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the pier south stair. Ivo keeps the shutter for the hold. 5 steps, direct on the left lane, open."}
 {"n":877,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, south stair. direct left open. 6 steps. The shutter stays for the hold."}
 {"n":878,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the shutter at the pier. Nobody past the south stair. We hold in 7 steps. Direct on the left lane, open."}
+{"n":879,"kind":"place","name":"the pier south stair","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the pier south stair. Bess keeps the shutter for the hold. 8 steps, direct on the left lane, open."}
+{"n":880,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, south stair. direct left open. 2 steps. The shutter stays for the hold."}
+{"n":881,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the shutter at Clinic roof. Nobody past the south stair. We hold in 3 steps. Direct on the left lane, open."}
