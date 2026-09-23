@@ -946,3 +946,6 @@
 {"n":946,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, east roof. direct left open. 2 steps. The hydrant stays for the hold."}
 {"n":947,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the hydrant at High line. Nobody past the east roof. We hold in 3 steps. Direct on the left lane, open."}
 {"n":948,"kind":"place","name":"High line east roof","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"High line east roof. Ivo keeps the hydrant for the hold. 4 steps, direct on the left lane, open."}
+{"n":949,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, east roof. direct left open. 5 steps. The hydrant stays for the hold."}
+{"n":950,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the hydrant at High line. Nobody past the east roof. We hold in 6 steps. Direct on the left lane, open."}
+{"n":951,"kind":"place","name":"High line east roof","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"High line east roof. Bess keeps the hydrant for the hold. 7 steps, direct on the left lane, open."}
