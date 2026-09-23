@@ -673,3 +673,6 @@
 {"n":673,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, north roof. direct left open. 6 steps. The rope stays for the hold."}
 {"n":674,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the rope at the Lot. Nobody past the north roof. We hold in 7 steps. Direct on the left lane, open."}
 {"n":675,"kind":"place","name":"the Lot north roof","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the Lot north roof. Bess keeps the rope for the hold. 8 steps, direct on the left lane, open."}
+{"n":676,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, north roof. direct left open. 2 steps. The rope stays for the hold."}
+{"n":677,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the rope at Stockyard fence. Nobody past the north roof. We hold in 3 steps. Direct on the left lane, open."}
+{"n":678,"kind":"place","name":"Stockyard fence north roof","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Stockyard fence north roof. Matt keeps the rope for the hold. 4 steps, direct on the left lane, open."}
