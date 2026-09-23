@@ -161,3 +161,6 @@
 {"n":161,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, east roof. direct left open. 6 steps. The drum stays for the hold."}
 {"n":162,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the drum at the Lot. Nobody past the east roof. We hold in 7 steps. Direct on the left lane, open."}
 {"n":163,"kind":"place","name":"the Lot east roof","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the Lot east roof. Bess keeps the drum for the hold. 8 steps, direct on the left lane, open."}
+{"n":164,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, east roof. direct left open. 2 steps. The drum stays for the hold."}
+{"n":165,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the drum at Stockyard fence. Nobody past the east roof. We hold in 3 steps. Direct on the left lane, open."}
+{"n":166,"kind":"place","name":"Stockyard fence east roof","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Stockyard fence east roof. Matt keeps the drum for the hold. 4 steps, direct on the left lane, open."}
