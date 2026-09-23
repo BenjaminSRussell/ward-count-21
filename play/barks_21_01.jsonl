@@ -833,3 +833,6 @@
 {"n":833,"kind":"place","name":"the Underpass west roof","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"the Underpass west roof. Nia keeps the hydrant for the hold. 3 steps, direct on the left lane, open."}
 {"n":834,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, west roof. direct left open. 4 steps. The hydrant stays for the hold."}
 {"n":835,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the hydrant at the Underpass. Nobody past the west roof. We hold in 5 steps. Direct on the left lane, open."}
+{"n":836,"kind":"place","name":"the Underpass west roof","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the Underpass west roof. Ivo keeps the hydrant for the hold. 6 steps, direct on the left lane, open."}
+{"n":837,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, west roof. direct left open. 7 steps. The hydrant stays for the hold."}
+{"n":838,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the hydrant at the Underpass. Nobody past the west roof. We hold in 8 steps. Direct on the left lane, open."}
