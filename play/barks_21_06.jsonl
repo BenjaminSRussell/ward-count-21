@@ -165,3 +165,6 @@
 {"n":165,"kind":"place","name":"the Lot north roof","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"the Lot north roof. Nia keeps the crate for the hold. 2 steps, direct on the left lane, open."}
 {"n":166,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, north roof. direct left open. 3 steps. The crate stays for the hold."}
 {"n":167,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the crate at the Lot. Nobody past the north roof. We hold in 4 steps. Direct on the left lane, open."}
+{"n":168,"kind":"place","name":"the Lot north roof","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the Lot north roof. Ivo keeps the crate for the hold. 5 steps, direct on the left lane, open."}
+{"n":169,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, north roof. direct left open. 6 steps. The crate stays for the hold."}
+{"n":170,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the crate at the Lot. Nobody past the north roof. We hold in 7 steps. Direct on the left lane, open."}
