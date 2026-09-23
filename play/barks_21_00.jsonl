@@ -645,3 +645,6 @@
 {"n":645,"kind":"place","name":"Mall court south stair","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Mall court south stair. Nia keeps the rope for the hold. 5 steps, direct on the left lane, open."}
 {"n":646,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, south stair. direct left open. 6 steps. The rope stays for the hold."}
 {"n":647,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the rope at Mall court. Nobody past the south stair. We hold in 7 steps. Direct on the left lane, open."}
+{"n":648,"kind":"place","name":"Mall court south stair","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Mall court south stair. Ivo keeps the rope for the hold. 8 steps, direct on the left lane, open."}
+{"n":649,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, south stair. direct left open. 2 steps. The rope stays for the hold."}
+{"n":650,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the rope at Mall court. Nobody past the south stair. We hold in 3 steps. Direct on the left lane, open."}
